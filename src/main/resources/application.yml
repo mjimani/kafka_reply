@@ -1,7 +1,0 @@
-kafka:
-  bootstrapAddress: localhost:29092
-  topic: myTopic
-spring:
-  kafka:
-    consumer:
-      group-id: myConsumerGroupId
